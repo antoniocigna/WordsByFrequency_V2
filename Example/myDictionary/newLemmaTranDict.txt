@@ -1,0 +1,10 @@
+__myDictionary\newLemmaTranDict.txt
+_lemma	_traduzione
+bißchen|un po'
+muß|deve
+müssen|deve
+paß|passare
+passen|adattare
+paßen|adatta
+schluß|conclusione
+streß|fatica
